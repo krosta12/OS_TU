@@ -20,4 +20,5 @@ Seadistasin jagatud kausta, Guest Additions ja aktiveerisin Windowsi KMS kaudu.
 - Uuendasin 7 Windowsi paketid
 
 ## Ekraanipildid
--teise commitiga
+<img width="2559" height="944" alt="sc1" src="https://github.com/user-attachments/assets/be2b0aaa-b437-4e7b-bbc0-b2ae15ba09ec" />
+<img width="2559" height="1290" alt="sc2" src="https://github.com/user-attachments/assets/1d16ec2a-6989-4995-80f9-a1f400ef68cf" />
